@@ -1,0 +1,23 @@
+.background {
+    background: url('./../images/backgroundsite.jpg') no-repeat center center / cover;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+
+.button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    font-size: 50px;
+    color: #ffffff;
+    font-family: 'Heebo', sans-serif;
+}
+
